@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "493430947986",
+    "project_id": "golpo-67371",
+    "storage_bucket": "golpo-67371.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493430947986:android:e7b743f6368e657030e64b",
+        "android_client_info": {
+          "package_name": "com.example.golpo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493430947986-n3gs8v9d8tlpr9d3o5fs1jt91celg95f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALkVDPciywBdIut1aoefcz2GBjLIzrFf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493430947986-n3gs8v9d8tlpr9d3o5fs1jt91celg95f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
